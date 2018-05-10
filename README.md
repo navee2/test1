@@ -1,2 +1,2 @@
 # test1
-to test github basics
+To test github basics
